@@ -9,4 +9,4 @@ composer require spryker-feature/data-exchange-api
 ```
 
 ## Optional modules
-- [DynamicEntityBackendApi ^1.0.0](https://github.com/spryker/dynamic-entity-backend-api) (Glue Backend)
+- [DynamicEntityExtension ^1.0.0](https://github.com/spryker/dynamic-entity-extension) (Extension)
