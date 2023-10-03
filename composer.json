@@ -6,7 +6,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker/dynamic-entity": "^1.0.0",
+        "spryker/dynamic-entity-gui": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
