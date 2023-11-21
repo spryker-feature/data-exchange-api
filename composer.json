@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker/dynamic-entity": "^1.0.0",
-        "spryker/dynamic-entity-backend-api": "^1.0.0",
-        "spryker/dynamic-entity-gui": "^1.0.0"
+        "spryker/dynamic-entity": "^1.2.0",
+        "spryker/dynamic-entity-backend-api": "^1.1.0",
+        "spryker/dynamic-entity-gui": "^1.1.0"
     },
     "extra": {
         "branch-alias": {
