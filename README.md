@@ -10,3 +10,4 @@ composer require spryker-feature/data-exchange-api
 
 ## Optional modules
 - [DynamicEntityExtension ^1.0.0](https://github.com/spryker/dynamic-entity-extension) (Extension)
+- [ProductDynamicEntityConnector ^1.0.0](https://github.com/spryker/product-dynamic-entity-connector) (Connector)
